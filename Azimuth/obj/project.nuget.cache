@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B6XYFiyICeREaoogC07g3mp7t1bFXFE16ragbX92BcyXkrg8v6ev9RtspbQ79q8d9eMgga8LFfn8H6b5HZRTUg==",
+  "dgSpecHash": "1qS11BrGNVg7Mbvz3/i6Om/brUcow9HiM4F2qRRP1O5GDYDn4TSqimDW5Kc6WlJpKwivMuII6DTSzfQ74v0azA==",
   "success": true,
   "projectFilePath": "C:\\Users\\s220946\\Desktop\\github\\Azimuth\\Azimuth\\Azimuth.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\s220946\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\s220946\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
