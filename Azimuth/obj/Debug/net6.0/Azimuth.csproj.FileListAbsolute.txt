@@ -1,0 +1,12 @@
+C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth.deps.json
+C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth.dll
+C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth.pdb
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.csproj.AssemblyReference.cache
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.AssemblyInfoInputs.cache
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.AssemblyInfo.cs
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.csproj.CoreCompileInputs.cache
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.dll
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\refint\Azimuth.dll
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\Azimuth.pdb
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth\obj\Debug\net6.0\ref\Azimuth.dll
