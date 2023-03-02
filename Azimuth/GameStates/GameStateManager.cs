@@ -48,7 +48,7 @@ namespace Azimuth.GameStates
 			}
 		}
 
-		private static void ActiveState(string _id)
+		public static void ActivateState(string _id)
 		{
 			if(states.ContainsKey(_id))
 			{

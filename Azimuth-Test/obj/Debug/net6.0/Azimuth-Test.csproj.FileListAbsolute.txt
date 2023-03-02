@@ -18,3 +18,11 @@ C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth-Test.
 C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth-Test.runtimeconfig.json
 C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth-Test.dll
 C:\Users\s220946\Desktop\github\Azimuth\Builds\Debug\AnyCPU\net6.0\Azimuth-Test.pdb
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Assets\config.cfg
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Azimuth-Test.exe
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Azimuth-Test.deps.json
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Azimuth-Test.runtimeconfig.json
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Azimuth-Test.dll
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Azimuth-Test.pdb
+C:\Users\s220946\Desktop\github\Azimuth\Azimuth-Test\obj\Debug\net6.0\Azimuth-Test.csproj.CopyComplete
+C:\Users\s220946\Desktop\github\Azimuth\Builds\net6.0\Assets\Textures\shacoPoroAngry.png
